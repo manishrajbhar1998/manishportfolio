@@ -16,11 +16,12 @@
     background: transparent;
 }
 .portfolio-item-image{
-    border-radius: 5px;
+    border-radius: 10px;
     overflow: hidden; 
 }
 .portfolio-item-image img{
     height: fit-content;
+    border-radius: 10px;
     height: 200px;
 }
 .portfolio-item h3{
