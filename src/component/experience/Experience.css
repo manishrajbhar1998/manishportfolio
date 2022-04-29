@@ -50,6 +50,11 @@
 
 /* ================= Media Queries (Mobile Devices) ================= */
 @media screen and (max-width: 600px){
+    .experience-container > div{
+        width: 95%;
+        padding: 1rem;
+        margin: 0 auto;
+    }
     .experience-container{
         gap: 1rem;
     }
