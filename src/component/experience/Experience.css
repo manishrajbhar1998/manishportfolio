@@ -61,7 +61,7 @@
     }
     .experience-details{
         display: flex;
-        gap: 0.2rem;
+        gap: 0.3rem;
     }
     .experience-icon{
         font-size: 0.8rem;
