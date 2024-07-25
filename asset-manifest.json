@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/manishportfolio/static/css/main.4c418074.css",
-    "main.js": "/manishportfolio/static/js/main.a30644ec.js",
+    "main.css": "/manishportfolio/static/css/main.72414048.css",
+    "main.js": "/manishportfolio/static/js/main.d69b7a13.js",
     "static/media/working.jpg": "/manishportfolio/static/media/working.6098bc810e9b70fbe693.jpg",
-    "static/media/me.jpg": "/manishportfolio/static/media/me.1b99d2955c9bea1718c4.jpg",
     "static/media/t4.jpg": "/manishportfolio/static/media/t4.aa5ca9b6706cc031b372.jpg",
     "static/media/t1.jpg": "/manishportfolio/static/media/t1.fd46e8f3f18909fe8510.jpg",
     "static/media/t2.jpg": "/manishportfolio/static/media/t2.84f79abacb5a871c65fb.jpg",
@@ -11,16 +10,17 @@
     "static/media/university.png": "/manishportfolio/static/media/university.ff5c23d6a99e8879ef6f.png",
     "static/media/nonProfit.png": "/manishportfolio/static/media/nonProfit.afd28ba780473fe501ba.png",
     "static/media/snakeGame.png": "/manishportfolio/static/media/snakeGame.e7afcf641c840a7d7977.png",
-    "static/media/Manish_Rajbhar.pdf": "/manishportfolio/static/media/Manish_Rajbhar.4f178d6e7e4657190c37.pdf",
+    "static/media/me2.png": "/manishportfolio/static/media/me2.214019b8081bdd70e14c.png",
+    "static/media/Manish_Rajbhar2.pdf": "/manishportfolio/static/media/Manish_Rajbhar2.ce37e4fac4e9364feedf.pdf",
     "static/media/3dCube.png": "/manishportfolio/static/media/3dCube.e742898e446a9f02ac71.png",
     "static/media/digitalWatch.png": "/manishportfolio/static/media/digitalWatch.2db18241fb94bfa0c8d7.png",
     "static/media/ToDo.png": "/manishportfolio/static/media/ToDo.8add620c0c79635262c5.png",
     "index.html": "/manishportfolio/index.html",
-    "main.4c418074.css.map": "/manishportfolio/static/css/main.4c418074.css.map",
-    "main.a30644ec.js.map": "/manishportfolio/static/js/main.a30644ec.js.map"
+    "main.72414048.css.map": "/manishportfolio/static/css/main.72414048.css.map",
+    "main.d69b7a13.js.map": "/manishportfolio/static/js/main.d69b7a13.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c418074.css",
-    "static/js/main.a30644ec.js"
+    "static/css/main.72414048.css",
+    "static/js/main.d69b7a13.js"
   ]
 }
